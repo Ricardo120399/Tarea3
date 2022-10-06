@@ -13,6 +13,7 @@
 
 A ionic app using Angular and TypeScript
 This app has the following items:
+
 1- Initial page where I show my personal info: a photo of mine, name, lastname and email.
 
 2- Second page allows users to insert two numbers as an input and return the sum as an output.
