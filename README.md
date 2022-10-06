@@ -1,3 +1,4 @@
+# Tarea3
 1-Pagina inicial, donde mostraras tus datos: foto 2x2, nombre, apellido y correo.
 2-Sumadora, en esta pagina harás una sumadora de 2 números y mostrar el resultado.
 3-Un traductor de numeros a letras, se colocara un numero del 1 al 1000 y tu esta vista nos mostrara ese numero en letras en español. 
@@ -5,7 +6,7 @@
 5-En esta vista mostraras un video de youtube donde explicaras tu experiencia al hacer esta tareas, no es que programes, si no que nos cuente tu experiencia en el proceso, que te gusto y que no..
 
 -------------------------------------------------------------English--------------------------------------------------------------------------------
-# Tarea3
+
 A ionic app using Angular and TypeScript
 This app has the following items:
 1- Initial page where I show my personal info: a photo of mine, name, lastname and email.
